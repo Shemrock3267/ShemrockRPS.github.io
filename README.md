@@ -1,4 +1,4 @@
-# Rock/Paper/Scissors game made 
+# Rock/Paper/Scissors game
 
 
 
